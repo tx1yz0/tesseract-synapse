@@ -29,7 +29,7 @@ const Profile = ({}: ProfileProps) => {
                 <Menu.Button className="relative shrink-0 w-9 h-9">
                     <Image
                         className="w-full h-full object-cover rounded-full opacity-100"
-                        src="/images/avatar.jpg"
+                        src="/images/avatar-3.jpg"
                         width={36}
                         height={36}
                         alt="Avatar"
