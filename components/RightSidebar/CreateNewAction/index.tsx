@@ -83,13 +83,13 @@ const CreateNewAction = ({}: CreateNewActionProps) => {
                     </button>
                     <div className="flex justify-between items-center mb-3">
                         <div className="text-base-2 font-semibold text-n-4">
-                            Chat creativity
+                            User investment experience
                         </div>
                         <div
                             className="group cursor-pointer"
                             data-tooltip-place="left"
                             data-tooltip-id="my-tooltip"
-                            data-tooltip-content="Choose high for creative tasks like generate image for better results"
+                            data-tooltip-content="Choose your desired level based on experience in investing"
                         >
                             <Icon
                                 className="w-4 h-4 fill-n-4 transition-colors group-hover:fill-n-7 dark:group-hover:fill-n-1"

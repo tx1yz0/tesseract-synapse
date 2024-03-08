@@ -1,37 +1,37 @@
 export const chats = [
     {
         id: "0",
-        title: "ChatGPT 4",
+        title: "AI Agent 1",
         image: "/images/logo-1.svg",
         color: "#735FFA",
     },
     {
         id: "1",
-        title: "ChatGPT 3",
+        title: "AI Agent 2",
         image: "/images/logo-1.svg",
         color: "#4BAB71",
     },
     {
         id: "2",
-        title: "Converso",
+        title: "AI Agent 3",
         image: "/images/logo-2.svg",
         color: "#FF6C3E",
     },
     {
         id: "3",
-        title: "Botman",
+        title: "AI Agent 4",
         image: "/images/logo-3.svg",
         color: "#FFC224",
     },
     {
         id: "4",
-        title: "Talky",
+        title: "AI Agent 5",
         image: "/images/logo-light-3.svg",
         color: "#066FF4",
     },
     {
         id: "5",
-        title: "UI8 Marketplace",
+        title: "AI Agent 6",
         image: "/images/logo-2.svg",
         color: "#735FFA",
     },

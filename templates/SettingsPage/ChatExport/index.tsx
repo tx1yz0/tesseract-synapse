@@ -28,7 +28,7 @@ const ChatExport = ({}: ChatExportProps) => {
     const [checkboxes, setCheckboxes] = useState([
         {
             id: "0",
-            title: "ChatGPT 4",
+            title: "AI Agent 1",
             conversations: 256,
             image: "/images/logo-1.svg",
             color: "#735FFA",
@@ -36,7 +36,7 @@ const ChatExport = ({}: ChatExportProps) => {
         },
         {
             id: "1",
-            title: "ChatGPT 3",
+            title: "AI Agent 2",
             conversations: 128,
             image: "/images/logo-1.svg",
             color: "#4BAB71",
@@ -44,7 +44,7 @@ const ChatExport = ({}: ChatExportProps) => {
         },
         {
             id: "2",
-            title: "Coverso",
+            title: "AI Agent 3",
             conversations: 64,
             image: "/images/logo-1.svg",
             color: "#FF66C2",
@@ -52,7 +52,7 @@ const ChatExport = ({}: ChatExportProps) => {
         },
         {
             id: "3",
-            title: "Botman",
+            title: "AI Agent 4",
             conversations: 32,
             image: "/images/logo-1.svg",
             color: "#0C018C",
@@ -60,7 +60,7 @@ const ChatExport = ({}: ChatExportProps) => {
         },
         {
             id: "4",
-            title: "Talky",
+            title: "AI Agent 5",
             conversations: 80,
             image: "/images/logo-4.svg",
             color: "#FFC224",
@@ -68,7 +68,7 @@ const ChatExport = ({}: ChatExportProps) => {
         },
         {
             id: "5",
-            title: "UI8 Marketplace (Custom)",
+            title: "AI Agent 6",
             conversations: 512,
             image: "/images/logo-1.svg",
             color: "#FF6C3E",
@@ -76,7 +76,7 @@ const ChatExport = ({}: ChatExportProps) => {
         },
         {
             id: "6",
-            title: "ChatGPT 4.1",
+            title: "AI Agent 7",
             conversations: 1024,
             image: "/images/logo-1.svg",
             color: "#735FFA",

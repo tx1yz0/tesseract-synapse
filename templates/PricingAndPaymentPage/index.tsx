@@ -35,11 +35,11 @@ const CreateChatBotPage = () => {
 						<div className='max-w-[76.5rem] mx-auto'>
 							<div className='mb-15 text-center xl:mb-8'>
 								<div className='mb-2 text-h1 xl:text-h2 lg:text-h3'>
-									Investment AI Advisor
+									AI Investment Advisor
 								</div>
 								<div className='mb-15 text-body-1 text-n-4 xl:mb-8'>
-									Meet the tesseract, conversational interface revolutionizing
-									portfolio management and asset tracking
+								  Meet tesseract, conversational oracle revolutionizing
+									portfolio management and asset tracking.
 								</div>
 								<Tabs
 									className='max-w-[18rem] mx-auto'

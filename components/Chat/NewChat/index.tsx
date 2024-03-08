@@ -39,22 +39,22 @@ const NewChat = ({}: NewChatProps) => {
 			<div className='max-w-[37.5rem] mx-auto 4xl:max-w-[34.5rem]'>
 				<div className='mb-12 text-center md:mb-8'>
 					<div className='mb-2 text-h2 lg:text-h3 md:max-w-[16rem] md:mx-auto'>
-						Investment AI Advisor
+						AI Investment Advisor
 					</div>
 					<div className='text-body-1 text-n-4'>
-						Meet the tesseract, conversational interface revolutionizing
+						Meet tesseract, conversational oracle revolutionizing
 						portfolio management and asset tracking
 					</div>
 				</div>
 				<div className='flex justify-between items-center mb-3'>
 					<div className='text-base-2 font-semibold text-n-4'>
-						Chat creativity
+					User investment experience
 					</div>
 					<div
 						className='group cursor-pointer'
 						data-tooltip-place='left'
 						data-tooltip-id='my-tooltip'
-						data-tooltip-content='Choose high for creative tasks like generate image for better results'
+						data-tooltip-content='Choose your desired level based on experience in investing'
 					>
 						<Icon
 							className='w-4 h-4 fill-n-4 transition-colors group-hover:fill-n-7 dark:group-hover:fill-n-1'

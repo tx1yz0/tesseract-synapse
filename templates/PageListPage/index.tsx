@@ -42,7 +42,7 @@ const items = [
         url: "/statistics",
     },
     {
-        title: "Create chat bot",
+        title: "Create AI Agent",
         url: "/chatbot/create",
     },
     {

@@ -35,9 +35,9 @@ const HomePage = () => {
                     />
                 </div>
                 <div className="flex justify-between mb-8 md:block">
-                    <div className="text-h2 md:mb-5 md:text-h4">ChatGPT 4</div>
+                    <div className="text-h2 md:mb-5 md:text-h4">AI Agent 1</div>
                     <Link className="btn-purple mt-1" href="/new-chat">
-                        <span>Create new chat</span>
+                        <span>Create new AI Agent</span>
                         <Icon name="plus" />
                     </Link>
                 </div>
