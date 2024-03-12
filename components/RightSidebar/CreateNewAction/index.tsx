@@ -13,30 +13,30 @@ const CreateNewAction = ({}: CreateNewActionProps) => {
     const [prompt, setPrompt] = useState<string>(
         "Translate {selected text} to Vietnamese"
     );
-    const [type, setType] = useState<"super" | "high" | "medium" | "low">(
-        "high"
+    const [type, setType] = useState< "expert" | "intermediate" | "novice">(
+        "novice"
     );
 
     const typeTasks = [
+        // {
+        //     title: "Super",
+        //     active: type === "super",
+        //     onClick: () => setType("super"),
+        // },
         {
-            title: "Super",
-            active: type === "super",
-            onClick: () => setType("super"),
+            title: "Expert",
+            active: type === "expert",
+            onClick: () => setType("expert"),
         },
         {
-            title: "High",
-            active: type === "high",
-            onClick: () => setType("high"),
+            title: "Intermediate",
+            active: type === "intermediate",
+            onClick: () => setType("intermediate"),
         },
         {
-            title: "Medium",
-            active: type === "medium",
-            onClick: () => setType("medium"),
-        },
-        {
-            title: "Low",
-            active: type === "low",
-            onClick: () => setType("low"),
+            title: "Novice",
+            active: type === "novice",
+            onClick: () => setType("novice"),
         },
     ];
 
@@ -83,7 +83,7 @@ const CreateNewAction = ({}: CreateNewActionProps) => {
                     </button>
                     <div className="flex justify-between items-center mb-3">
                         <div className="text-base-2 font-semibold text-n-4">
-                            User investment experience
+                        Your experience investing...
                         </div>
                         <div
                             className="group cursor-pointer"

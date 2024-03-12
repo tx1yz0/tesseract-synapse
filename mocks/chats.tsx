@@ -1,27 +1,27 @@
 export const chatActions = [
     {
         id: "0",
-        title: "Improve writing",
+        title: "Retirement Planning",
     },
     {
         id: "1",
-        title: "Translate",
+        title: "Roth IRA",
     },
     {
         id: "2",
-        title: "Change tone",
+        title: "Estate Planning",
     },
     {
         id: "3",
-        title: "Fix spelling and grammar",
+        title: "401k",
     },
     {
         id: "4",
-        title: "Improve writing",
+        title: "ETFs",
     },
     {
         id: "5",
-        title: "Improve writing",
+        title: "Brokers",
     },
 ];
 
@@ -31,7 +31,7 @@ export const directions = [
         title: "Photo generator",
         image: "/images/photo.svg",
         color: "#735FFA",
-        type: "super",
+        type: "expert",
         url: "/photo-generator",
     },
     {
@@ -39,7 +39,7 @@ export const directions = [
         title: " Photo editor",
         image: "/images/photo.svg",
         color: "#BE87FF",
-        type: "super",
+        type: "expert",
         url: "/photo-editor",
     },
     {
@@ -47,7 +47,7 @@ export const directions = [
         title: "Code generator",
         image: "/images/code.svg",
         color: "#1F82FF",
-        type: "super",
+        type: "expert",
         url: "/code-generator",
     },
     {
@@ -55,7 +55,7 @@ export const directions = [
         title: "Education feedback",
         image: "/images/trophy.svg",
         color: "#7C878E",
-        type: "super",
+        type: "expert",
         url: "/education-feedback",
     },
     {
@@ -63,7 +63,7 @@ export const directions = [
         title: "Video generator",
         image: "/images/video.svg",
         color: "#4BAB71",
-        type: "high",
+        type: "expert",
         url: "/video-generation",
     },
     {
@@ -71,7 +71,7 @@ export const directions = [
         title: "Photo generator",
         image: "/images/photo.svg",
         color: "#735FFA",
-        type: "high",
+        type: "intermediate",
         url: "/photo-generator",
     },
     {
@@ -79,7 +79,7 @@ export const directions = [
         title: " Photo editor",
         image: "/images/photo.svg",
         color: "#BE87FF",
-        type: "high",
+        type: "intermediate",
         url: "/photo-editor",
     },
     {
@@ -87,7 +87,7 @@ export const directions = [
         title: "Code generator",
         image: "/images/code.svg",
         color: "#1F82FF",
-        type: "high",
+        type: "intermediate",
         url: "/code-generator",
     },
     {
@@ -95,7 +95,7 @@ export const directions = [
         title: "Education feedback",
         image: "/images/trophy.svg",
         color: "#7C878E",
-        type: "high",
+        type: "intermediate",
         url: "/education-feedback",
     },
     {
@@ -103,7 +103,7 @@ export const directions = [
         title: "Photo generator",
         image: "/images/photo.svg",
         color: "#735FFA",
-        type: "medium",
+        type: "novice",
         url: "/photo-generator",
     },
     {
@@ -111,7 +111,7 @@ export const directions = [
         title: "Video generator",
         image: "/images/video.svg",
         color: "#4BAB71",
-        type: "medium",
+        type: "novice",
         url: "/video-generation",
     },
     {
@@ -119,7 +119,7 @@ export const directions = [
         title: "Education feedback",
         image: "/images/trophy.svg",
         color: "#7C878E",
-        type: "medium",
+        type: "novice",
         url: "/education-feedback",
     },
     {
@@ -127,7 +127,7 @@ export const directions = [
         title: "Code generator",
         image: "/images/code.svg",
         color: "#1F82FF",
-        type: "low",
+        type: "novice",
         url: "/code-generator",
     },
     {
@@ -135,7 +135,7 @@ export const directions = [
         title: "Education feedback",
         image: "/images/trophy.svg",
         color: "#7C878E",
-        type: "low",
+        type: "novice",
         url: "/education-feedback",
     },
 ];
