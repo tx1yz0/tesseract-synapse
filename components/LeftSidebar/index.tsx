@@ -93,7 +93,7 @@ const LeftSidebar = ({ onClick, visible }: LeftSidebarProps) => {
                             visible ? "opacity-100" : "opacity-0 md:opacity-100"
                         }`}
                     >
-                        Create AI Agent
+                        New Autonomous AI
                     </div>
                 </Link>
             </div>

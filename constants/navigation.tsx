@@ -1,37 +1,37 @@
 export const chats = [
     {
         id: "0",
-        title: "AI Agent 1",
+        title: "Autonomous AI 1",
         image: "/images/logo-1.svg",
         color: "#735FFA",
     },
     {
         id: "1",
-        title: "AI Agent 2",
+        title: "Autonomous AI 2",
         image: "/images/logo-1.svg",
         color: "#4BAB71",
     },
     {
         id: "2",
-        title: "AI Agent 3",
+        title: "Autonomous AI 3",
         image: "/images/logo-2.svg",
         color: "#FF6C3E",
     },
     {
         id: "3",
-        title: "AI Agent 4",
+        title: "Autonomous AI 4",
         image: "/images/logo-3.svg",
         color: "#FFC224",
     },
     {
         id: "4",
-        title: "AI Agent 5",
+        title: "Autonomous AI 5",
         image: "/images/logo-light-3.svg",
         color: "#066FF4",
     },
     {
         id: "5",
-        title: "AI Agent 6",
+        title: "Autonomous AI 6",
         image: "/images/logo-2.svg",
         color: "#735FFA",
     },
@@ -40,12 +40,12 @@ export const chats = [
 export const chatList = [
     {
         id: "0",
-        title: "Website analytics",
+        title: "Stocks",
         image: "/images/chat-pic-1.svg",
     },
     {
         id: "1",
-        title: "Enhancing Communication",
+        title: "ETFs",
         image: "/images/chat-pic-2.svg",
     },
     {
