@@ -11,7 +11,7 @@ const CreateNewAction = ({}: CreateNewActionProps) => {
     const [visibleModal, setVisibleModal] = useState<boolean>(false);
     const [title, setTitle] = useState<string>("");
     const [prompt, setPrompt] = useState<string>(
-        "Translate {selected text} to Vietnamese"
+        "Find top stocks to invest right now"
     );
     const [type, setType] = useState< "expert" | "intermediate" | "novice">(
         "novice"
@@ -64,7 +64,7 @@ const CreateNewAction = ({}: CreateNewActionProps) => {
                     <Field
                         className="mb-8 md:mb-6"
                         label="Action title"
-                        placeholder="I.g. Translate to Vietnamese"
+                        placeholder="e.g. Find best performing stocks"
                         value={title}
                         onChange={(e: any) => setTitle(e.target.value)}
                         required
