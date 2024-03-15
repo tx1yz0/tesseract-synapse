@@ -41,7 +41,7 @@ const Upgrade = ({}: UpgradeProps) => {
                 className="inline-flex mt-3 text-base-2 font-semibold text-n-5 transition-colors hover:text-primary-3 dark:text-n-3 dark:hover:text-primary-4"
                 href="/entry"
             >
-                Follow us on
+                Sign Up
             </Link>
         </div>
     );
