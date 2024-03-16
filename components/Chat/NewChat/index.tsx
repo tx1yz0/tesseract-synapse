@@ -44,8 +44,8 @@ const NewChat = ({}: NewChatProps) => {
 						AI Investment Advisor
 					</div>
 					<div className='text-body-1 text-n-4'>
-						Meet tesseract, conversational oracle revolutionizing
-						portfolio management and asset tracking
+						Meet tesseract, conversational oracle helping you make smarter financial decisions.
+						
 					</div>
 				</div>
 				<div className='flex justify-between items-center mb-3'>

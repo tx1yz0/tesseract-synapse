@@ -38,8 +38,8 @@ const CreateChatBotPage = () => {
 									AI Investment Advisor
 								</div>
 								<div className='mb-15 text-body-1 text-n-4 xl:mb-8'>
-								  Meet tesseract, conversational oracle revolutionizing
-									portfolio management and asset tracking.
+									Meet tesseract, conversational oracle helping you make smarter
+									financial decisions.
 								</div>
 								<Tabs
 									className='max-w-[18rem] mx-auto'
